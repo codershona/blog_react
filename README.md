@@ -12,6 +12,16 @@
   
   * Multi-Page-Feeling in a Single-Page-App: Routing 
 
-    - 
+    - install a package to Setting up the Router Package :
+       - npm install --save react-router react-router-dom ;
+       -  
+
+
+        <section>
+                    <FullPost id={this.state.selectedPostId} />
+                </section>
+                <section>
+                    <NewPost />
+                </section>
 
 ```
