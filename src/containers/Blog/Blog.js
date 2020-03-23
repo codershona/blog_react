@@ -22,6 +22,8 @@ class Blog extends Component {
                        <ul>
                           <li><Link to="/">Home</Link></li>
                            <li><Link to={{
+                            example.com/posts/new-post
+                            example.com/new-post
                             pathname: '/new-post',
                             hash: '#submit',
                             search: '?quick-submit=true'
