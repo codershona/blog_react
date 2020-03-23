@@ -49,6 +49,7 @@ class Blog extends Component {
              
              <Route path="/new-post" component={NewPost} />
              <Route path="/posts" component={Posts} />
+              <Route path="/" component={Posts} />
              
              
              
