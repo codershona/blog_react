@@ -1,6 +1,6 @@
 #### Project: Blog
 
-#### Buulded by Falguni Islam (Self-taught Software developer)
+
 
 
 * NOTES :
