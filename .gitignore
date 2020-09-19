@@ -22,5 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 # Lock files
-test/**/yarn.lock
-test/**/package-json.lock
+/yarn.lock
+#test/**/package-json.lock
